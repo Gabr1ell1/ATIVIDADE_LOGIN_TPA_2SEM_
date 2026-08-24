@@ -45,3 +45,4 @@ yarn-error.*
 /android
 
 .env
+Pokemon API.postman_collection.json
